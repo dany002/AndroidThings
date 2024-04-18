@@ -1,0 +1,4 @@
+Build a traffic light controller with 3 LEDs (Red, Yellow, Green).
+Each LED should light up one after the other after a specified amount of time to emulate a traffic light.
+For further improvements, a button can also be connected to the Arduino to emulate, a “Pedestrian crossing”
+button that makes the traffic light turn to Red on demand.
